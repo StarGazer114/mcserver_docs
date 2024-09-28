@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <title>养老院服务器手册</title>
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/docsify@4/lib/themes/vue.css">
+  <link rel="shortcut icon" href="favicon.ico">
+</head>
+<body>
+  <style type="text/css">
+    body {
+      overflow: auto !important;
+    }
+  </style>
+  <div id="app"></div>
+  <script>
+    window.$docsify = {
+      name: '养老院服务器手册',
+      loadSidebar: 'nav.md',
+      subMaxLevel: 10,
+      homepage: 'welcome.md',
+      basePath: '/docs/',
+      auto2top: true,
+      loadNavbar: true,
+      notFoundPage: 'my404.md',
+      coverpage: true,
+      search: {
+        paths: 'auto',
+        placeholder: '请输入要搜索的关键字',
+        noData: '没有结果',
+        depth: 6,
+        onlyCover: false
+      }
+    }
+  </script>
+
+  <script src="//cdn.jsdelivr.net/npm/docsify/lib/docsify.min.js"></script>
+  <!-- 图片缩放 -->
+  <script src="https://cdn.jsdelivr.net/npm/docsify/lib/plugins/zoom-image.min.js" defer></script>
+  <!-- 分页导航 -->
+  <script src="https://cdn.jsdelivr.net/npm/docsify/lib/docsify.min.js" defer></script>
+  <script src="https://cdn.jsdelivr.net/npm/docsify-pagination/dist/docsify-pagination.min.js" defer></script>
+  <script src="https://cdn.jsdelivr.net/npm/docsify/lib/plugins/search.min.js" defer></script>
+</body>
+</html>
