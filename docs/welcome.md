@@ -8,5 +8,7 @@
 * 正版验证：有
 * 白名单：无
 ## 加入服务器
-请进入群内获取地址
+服务器地址：mc.bear556.xyz
+你也可以加入我们的qq群~  
+
 <a target="_blank" href="https://qm.qq.com/cgi-bin/qm/qr?k=eTm-IITZxeDfZ4EYd4caJi1Igxkhdj-M&jump_from=webapi&authKey=r8AITzA9u5REjkR36uBoF0DFDCbRrveghaEs9Sls+wKFWEl2zldvCTDk8OdLKfi7"><img border="0" src="//pub.idqqimg.com/wpa/images/group.png" alt="《养老院》" title="《养老院》"></a>
